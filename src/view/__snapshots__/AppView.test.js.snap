@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppView.clear Should clear data correctly 1`] = `
+<div
+  class="container"
+/>
+`;
+
+exports[`ItemView.prototype.renderItem Should render data correctly 1`] = `
+<div
+  class="item_container"
+>
+  
+      
+  <div
+    class="item"
+  >
+    
+        
+    <div
+      class="title"
+    >
+      
+          
+      <a
+        href="https://www.youtube.com/watch?v=hsRPx3-00xo"
+        target="_blank"
+      >
+        Is India ready for electric vehicles?
+      </a>
+      
+        
+    </div>
+    
+        
+    <img
+      src="https://i.ytimg.com/vi/hzkKe94CkJI/hqdefault.jpg"
+    />
+    
+        
+    <div
+      class="info"
+    >
+      
+          
+      <ul>
+        
+            
+        <li
+          class="author"
+        >
+          <span>
+            channel:
+          </span>
+           JS Films
+        </li>
+        
+            
+        <li
+          class="data_item"
+        >
+          <span>
+            data:
+          </span>
+           2019-05-22
+        </li>
+        
+            
+        <li
+          class="quantity_view"
+        >
+          <span>
+            view:
+          </span>
+           123456
+        </li>
+        
+          
+      </ul>
+      
+        
+    </div>
+    
+        
+    <div
+      class="description"
+    >
+      
+          
+      <span
+        class="description"
+      >
+        Get my Sunglasses from EyewearLabs: https://goo.gl/8oZwgH ***Buy my MERCHANDISE***: https://bit.ly/2DedHWW OFFICIAL WEBSITE: ...
+      </span>
+      
+        
+    </div>
+    
+      
+  </div>
+  
+    
+</div>
+`;
